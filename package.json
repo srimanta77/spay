@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@nestjs/axios": "^4.0.1",
+    "@nestjs/terminus": "^11.1.1",
+    "@nestjs/throttler": "^6.5.0",
+    "csurf": "^1.2.2",
+    "express-rate-limit": "^8.2.1",
+    "helmet": "^8.1.0"
+  },
+  "devDependencies": {
+    "@nestjs/testing": "^11.1.14",
+    "@types/jest": "^30.0.0",
+    "supertest": "^7.2.2"
+  }
+}
